@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 Фотографија од control flow graph-ot 
- 
+ ![](CFG.png)
 
 
 
